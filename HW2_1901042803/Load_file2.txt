@@ -1,0 +1,6 @@
+human hexagon 03
+nn.nn
+n..n
+nP.Pn
+PPPP
+PPPPP

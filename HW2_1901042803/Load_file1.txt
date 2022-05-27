@@ -1,0 +1,10 @@
+bot square 14
+nnnnPnnn.PP
+nnn..Pnn.PP
+nnP.P.P.PPn
+n.P..P.PPPn
+PPP.PPPPPnn
+nP.PPPPPPPn
+nn.PP.PPPPn
+nnnPPPnnPPP
+nnnnPnnnPPP
